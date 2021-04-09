@@ -1,0 +1,22 @@
+@import './styles/layout';
+@import './styles/navbar';
+@import './styles/home';
+@import './styles/title';
+@import './styles/subtitle';
+@import './styles/about';
+@import './styles/imagesection';
+@import './styles/skills';
+
+* {
+  
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+      color: #a4acc4;
+      font-family: 'M PLUS Rounded 1c', sans-serif;
+      font-size: 1.2rem;
+  }
+  
